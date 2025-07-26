@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm MD. Rakib Ahmed
 
-<!--
-**rakib305r/rakib305r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Software Developer** currently pursuing a **Diploma in Engineering (3rd Semester)**. I enjoy learning new technologies and building real-world projects that help me grow and challenge my problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- 👨‍💻 Languages: **Java (Learning)**, **Python**
+- 🧠 Interests: Software Development, Problem Solving, Building Projects
+- 📘 Currently Exploring: Object-Oriented Programming, Git & GitHub, Java Basics
+
+---
+
+## 🎯 Goals
+- Master core programming concepts
+- Build and contribute to real-world software projects
+- Continuously improve through hands-on experience and learning
+
+---
+
+## 📫 Let's Connect
+Feel free to reach out if you're interested in collaborating or just want to connect.
+
