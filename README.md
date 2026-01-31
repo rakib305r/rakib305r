@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD. Rakib Ahmed
 
-I'm an aspiring **Software Developer** currently pursuing a **Diploma in Engineering (3rd Semester)**. I enjoy learning new technologies and building real-world projects that help me grow and challenge my problem-solving skills.
+I'm an aspiring **Software Developer** currently pursuing a **Diploma in Engineering (5th Semester)**. I enjoy learning new technologies and building real-world projects that help me grow and challenge my problem-solving skills.
 
 ---
 
