@@ -1,23 +1,19 @@
-# 👋 Hi, I'm MD. Rakib Ahmed
+# Hi, I'm Rakib Ahmed 👋
 
-I'm an aspiring **Software Developer** currently pursuing a **Diploma in Engineering (5th Semester)**. I enjoy learning new technologies and building real-world projects that help me grow and challenge my problem-solving skills.
+🎓 Diploma Engineering Student
 
----
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-## 🚀 Skills & Tools
-- 👨‍💻 Languages: **Java (Learning)**, **Python**
-- 🧠 Interests: Software Development, Problem Solving, Building Projects
-- 📘 Currently Exploring: Object-Oriented Programming, Git & GitHub, Java Basics
+💻 Skills: Python, Java, C++, Git, SEO
 
----
+🌱 Currently Learning:
+- Machine Learning
+- Data Science
+- Deep Learning
+- Software Development
 
-## 🎯 Goals
-- Master core programming concepts
-- Build and contribute to real-world software projects
-- Continuously improve through hands-on experience and learning
+🎯 Goal:
+Become a skilled AI/ML Engineer by building real-world projects and continuously learning.
 
----
-
-## 📫 Let's Connect
-Feel free to reach out if you're interested in collaborating or just want to connect.
-
+📌 Favorite Quote:
+> "Consistency turns potential into achievement."
