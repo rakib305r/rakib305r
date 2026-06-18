@@ -1,70 +1,92 @@
 ### Hi there 👋, I'm MD. Rakib Ahmed  
-#### Python Developer in Progress | ML, Data & AI Enthusiast | Lifelong Learner  
-
-(https://www.pinterest.com/pin/1007469379122701118/)
+#### Python Developer in Progress | Machine Learning & Data Science Enthusiast | Lifelong Learner  
 
 ---
 
-I am a highly motivated learner passionate about Python development, Data Analysis, and Machine Learning. I focus on building strong fundamentals through consistent practice, problem-solving, and real-world projects.
-
-I believe in learning by doing and continuously improving through hands-on experience. My goal is to become an industry-ready developer capable of building impactful and intelligent solutions.
-
----
-
-💻 Skills: Python | Java | C++ | Git | Problem Solving  
+<!-- 🔥 Banner Section (Use GIF instead of video) -->
+<p align="center">
+  <img src="YOUR_BANNER_GIF_URL_HERE" alt="ML Banner" />
+</p>
 
 ---
 
-- 🌱 I’m currently learning Python, Data Science, and Machine Learning by building projects and improving problem-solving skills.  
-- 💬 Ask me about Python, Data Analysis, Machine Learning, and my learning journey.  
-- 📫 How to reach me: rakibofficial305r@gmail.com  
-- 😄 Pronouns: dev / learner  
-- ⚡ Fun fact: I believe consistency is more powerful than talent.  
+### 👨‍💻 About Me
+
+I am a highly motivated learner passionate about **Python Development, Data Science, and Machine Learning**.  
+I enjoy building strong fundamentals through consistent practice, problem-solving, and real-world projects.
+
+I believe in **learning by doing** and continuously improving through hands-on experience.  
+My goal is to become an **industry-ready developer** capable of building intelligent and impactful solutions.
 
 ---
 
-## 🌍 Connect with me
+### 🛠️ Skills
+
+Python | Java | C++ | Git | Problem Solving | Data Analysis | Machine Learning (Basics)
+
+---
+
+### 🌱 Currently Learning
+
+- Python for Data Science  
+- Machine Learning Algorithms  
+- Data Analysis with real-world datasets  
+- Improving Problem Solving skills (DSA)
+
+---
+
+### 💬 Ask Me About
+
+Python • ML Basics • Data Analysis • Learning Journey • Beginner Projects
+
+---
+
+### 📫 Contact
+
+📧 Email: rakibofficial305r@gmail.com  
+
+---
+
+### 🌍 Connect with Me
 
 <p align="left">
   <a href="https://github.com/rakib305r">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
   <a href="https://www.linkedin.com/in/rakib-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="https://www.facebook.com/rakibahmed305r">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
 
   <a href="https://www.instagram.com/___rakib.ahmed___/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 
   <a href="https://twitter.com/rakib_ahmed60">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
   </a>
 
   <a href="https://www.hackerrank.com/profile/rakibofficial301">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
 </p>
 
 ---
 
-<a href='https://docs.github.com/en/developers'>
-<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a>
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib305r&show_icons=true&theme=default" />
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib305r" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib305r)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib305r&show_icons=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib305r)
-
-![GitHub metrics](https://metrics.lecoq.io/rakib305r)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib305r" />
+</p>
