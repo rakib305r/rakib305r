@@ -1,12 +1,7 @@
 ### Hi there 👋, I'm MD. Rakib Ahmed  
-#### Python Developer in Progress | Machine Learning & Data Science Enthusiast | Lifelong Learner  
+#### Python Developer in Progress | ML, Data & AI Enthusiast | Lifelong Learner  
 
----
-
-<!-- 🤖 AI / ML Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="AI ML Banner" />
-</p>
+![Machine Learning Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -16,7 +11,7 @@ I believe in learning by doing and continuously improving through hands-on exper
 
 ---
 
-💻 Skills: Python | Java | C++ | Git | Problem Solving | Data Science Basics | Machine Learning Basics  
+💻 Skills: Python | Java | C++ | Git | Problem Solving  
 
 ---
 
@@ -66,14 +61,10 @@ I believe in learning by doing and continuously improving through hands-on exper
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib305r&show_icons=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib305r)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib305r" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib305r&show_icons=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib305r" />
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib305r)
+
+![GitHub metrics](https://metrics.lecoq.io/rakib305r)
