@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm MD. RAKIB AHMED</h1>
-<h3 align="center">Turning Ideas into Solutions Through Code, Data, and Continuous Learning</h3>
+### Hi there 👋, I'm MD. Rakib Ahmed 
+#### Python Developer in Progress | ML, Data & AI Enthusiast | Lifelong Learner
+![Python Developer in Progress | ML, Data & AI Enthusiast | Lifelong Learner](https://images.unsplash.com/photo-1716436329475-4c55d05383bb?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib305r&label=Profile%20views&color=0e75b6&style=flat" alt="rakib305r" /> </p>
+I am a focused and highly motivated learner with a strong passion for Python development, Data Analysis, and Machine Learning. I am continuously building my skills through disciplined practice, problem-solving, and real-world project experience.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib305r" alt="rakib305r" /></a> </p>
+I believe in learning by doing and I am committed to mastering core programming concepts while steadily advancing toward AI/ML and data-driven technologies. I consistently challenge myself to think logically, write efficient code, and improve with every step.
 
-- 📫 Reach me: **rakibofficial305r@gmail.com**
+I am determined to grow into a skilled, industry-ready developer capable of building impactful, intelligent, and scalable solutions.
 
-- ⚡ Fun fact: **I enjoy solving programming problems more than playing games.**
+Skills: PYTHON/JAVA/C++/GIT
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rakib_ahmed60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakib_ahmed60" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakib-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib-ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/rakibahmed305r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibahmed305r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rakibofficial301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakibofficial301" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning learning Python, Data Science, and Machine Learning by building projects and improving problem-solving skills. 
+- 💬 Ask me about Python, Data Analysis, Machine Learning, and my learning journey. 
+- 📫 How to reach me: rakibofficial305r@gmail.com 
+- 😄 Pronouns: code/coffee ☕ 
+- ⚡ Fun fact: I believe consistency is more powerful than talent. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib305r&show_icons=true&locale=en&layout=compact" alt="rakib305r" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakib305r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakib-ahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibahmed305r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___rakib.ahmed___/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rakib_ahmed60)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/rakibofficial301)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib305r&" alt="rakib305r" /></p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib305r)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib305r&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rakib305r/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/rakib305r)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib305r)  
+
