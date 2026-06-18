@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm MD. Rakib Ahmed  
 #### Python Developer in Progress | ML, Data & AI Enthusiast | Lifelong Learner  
 
-![Machine Learning Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Machine Learning Banner](<img width="1774" height="887" alt="ChatGPT Image Jun 18, 2026, 12_31_04 PM" src="https://github.com/user-attachments/assets/ab8c4edc-8af3-4502-8ca6-47da6663ce54" />
+)
 
 ---
 
