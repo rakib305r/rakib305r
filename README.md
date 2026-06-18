@@ -23,12 +23,33 @@ I believe in learning by doing and continuously improving through hands-on exper
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/rakib305r)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/rakib-ahmed/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='40'>](https://www.facebook.com/rakibahmed305r)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height='40'>](https://www.instagram.com/___rakib.ahmed___/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/rakib_ahmed60)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' height='40'>](https://www.hackerrank.com/profile/rakibofficial301)  
+## 🌍 Connect with me
+
+<p align="left">
+  <a href="https://github.com/rakib305r">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rakib-ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/rakibahmed305r">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/___rakib.ahmed___/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/rakib_ahmed60">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/rakibofficial301">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -37,6 +58,8 @@ I believe in learning by doing and continuously improving through hands-on exper
 </a>
 
 ---
+
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib305r)
 
